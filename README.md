@@ -1,7 +1,11 @@
-bsmp ====
 
-## Home of the Basic Structural Modeling Project
-## 
+This repo is forked from Joseph Simpson & Mary Simpson's work at https://github.com/jjs0sbw/bsmp 
+
+The propose of my fork is to study and adding some script and note while I am studying the project.  
+
+
+## Home of the Basic Structural Modeling Project ##
+
 >The Basic Structural Modeling Project (BSMP) addresses the structural
 >modeling activities developed by John N. Warfield and extended by
 >Joseph Simpson and Mary Simpson.  The project is discussed, analyzed
